@@ -17,17 +17,17 @@
 
 ## Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK" target="blank">
+<a href="https://linkedin.com/in/ammar-abdullah781/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:mohammad.ammar2024@vitstudent.ac.in">
+<a href="mailto:ammarabdullah781@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
